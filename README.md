@@ -7,6 +7,6 @@
 
 <h2>Tela02 = Animal selecionado corretamente</h2>
 <p align="center">
-  <img src="https://github.com/edmariovalgueiro/AnimalPlanet/blob/master/AnimalPlanet/app/src/assets/to_readme/img1.png">
+  <img src="https://github.com/edmariovalgueiro/AnimalPlanet/blob/master/AnimalPlanet/app/src/assets/to_readme/img2.png">
 </p>
 
